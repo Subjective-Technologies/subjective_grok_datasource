@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/brainboost/Subjective/com_subjective_userdata/com_subjective_plugins/subjective_openai_chat_gpt_datasource/**)"
+    ]
+  }
+}
